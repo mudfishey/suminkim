@@ -1,0 +1,41 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## CV Download
+
+> See my full CV for details:
+
+👉 [Sumin Kim-2026](CV.pdf){target="_blank"}
+
+------------------------------------------------------------------------
+
+## Daily toolbox
+
+| Tool | Purpose | Used In |
+|----|----|----|
+| RStudio, Prism | Data cleaning and visualization | Epidemiology learning |
+| Quarto, Markdown | Scientific reports, website | Portfolio, data cleaning, disease modeling |
+| Open AI, Anthropic, Gemini | Vibe coding, tech learning | Personal projects, prompting, AI in science |
+| GitHub | Version control | Portfolio, markdown projects |
+| Notion, Obsidian | Research planning, tool tracking, note taking, markdown | Project management |
+
+------------------------------------------------------------------------
+
+## Toolbox Archive
+
+| Tool | Purpose | Used In |
+|----|----|----|
+| MATLAB | Numerical computing, mathematical modeling, simulation, and data analysis | Process modeling |
+| Aspen HYSYS | Fluid/process engineering analysis | Process design |
+| Stata | Statistical modeling (regression etc), data management | Epidemiology, biostatistics, and research data analysis |
+| Phoenix WinNonlin | Noncompartmental Pharmacokinetic (PK) analysis | Preliminary pharmacokinetic analysis |
+
+------------------------------------------------------------------------
+
+## Open to
+
+-   Roles in **drug research & development, epidemiology**, **public health**, or **data science**
+-   Collaborations in **AI for Drug Target Research & development, Disease Modeling or Data Analysis**
+-   Research assistantships or project based work

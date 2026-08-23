@@ -1,0 +1,113 @@
+---
+title: "About"
+format: html
+---
+
+## My Journey Toward Clinical Development
+
+```{dot}
+digraph MyJourney {
+
+  graph [
+    layout = dot,
+    rankdir = TB,
+    bgcolor = "white",
+    nodesep = 0.35,
+    ranksep = 0.65,
+    splines = ortho
+  ]
+
+  node [
+    shape = box,
+    style = "rounded,filled",
+    fontname = "Arial",
+    fontsize = 22,
+    margin = "0.2,0.15"
+  ]
+
+  edge [
+    color = "#666666",
+    arrowsize = 0.8,
+    penwidth = 1.3
+  ]
+
+  // ---------- Education & Experience ----------
+  CE [label="⚙️ Chemical Engineering",
+      fillcolor="#E3F2FD", color="#1565C0"]
+
+  HSE [label="HSE Manager",
+       fillcolor="#E3F2FD", color="#1565C0"]
+
+  Safety [label="Risk, Safety &\nQuality Management",
+          fillcolor="#FFF8E1", color="#F9A825"]
+
+  Pharmacy [label="💊 Pharmacy",
+            fillcolor="#F3E5F5", color="#6A1B9A"]
+
+  Clinical [label="Clinical Training",
+            fillcolor="#E8F5E9", color="#2E7D32"]
+
+  Patient [label="Patient-centered Care &\nEvidence-based Decision Making",
+           fillcolor="#E8F5E9", color="#2E7D32"]
+
+  Research [label="🔬 Chagas Research",
+            fillcolor="#FCE4EC", color="#C2185B"]
+
+  DrugDev [label="Interest in\nDrug Development",
+           fillcolor="#FCE4EC", color="#C2185B"]
+
+  Evidence [label="Need for Robust\nClinical Evidence",
+            fillcolor="#FFF3E0", color="#EF6C00"]
+
+  Bridge [label="From Molecules to\nPatient Populations",
+          fillcolor="#FFF3E0", color="#EF6C00"]
+
+  MSc [label="🎓 MSc Epidemiology\nSwiss TPH",
+       fillcolor="#EDE7F6", color="#512DA8"]
+
+  Modeling [label="Disease Modeling &\nPopulation-level Evidence",
+            fillcolor="#E8F5E9", color="#2E7D32"]
+
+  CD [label="🎯 Clinical Development",
+      fillcolor="#FFE0B2", color="#E65100"]
+
+  // ---------- Connections ----------
+  CE -> HSE
+  HSE -> Safety
+  Safety -> Pharmacy
+
+  Pharmacy -> Clinical
+  Clinical -> Patient
+
+  Pharmacy -> Research
+  Research -> DrugDev
+  DrugDev -> Evidence
+
+  Patient -> Bridge
+  Evidence -> Bridge
+
+  Bridge -> MSc
+  MSc -> Modeling
+  Modeling -> CD
+
+  // ---------- Keep the two branches aligned ----------
+  {rank = same; Clinical; Research;}
+  {rank = same; Patient; DrugDev;}
+}
+```
+
+------------------------------------------------------------------------
+
+## Beyond the lab
+
+::: box
+**Gatherer, not hunter\
+**I like to garden and forage edible plants from wilderness.
+:::
+
+::: box
+**Coffee maniac**\
+I am that person who use a microgram scale to measure exact 18g of coffee beans.
+:::
+
+------------------------------------------------------------------------

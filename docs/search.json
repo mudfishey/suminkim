@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here’s a summary selection of recent and ongoing work."
+  },
+  {
+    "objectID": "projects.html#project-table",
+    "href": "projects.html#project-table",
+    "title": "Projects",
+    "section": "Project Table",
+    "text": "Project Table\n\n\n\n\n\n\n\n\n\n\nProject\nStatus\nType\nTools / Skills\nSummary\n\n\n\n\nBuilding repository for legacy data\n🔄 In progress\nResearch\nR, data cleaning, data integration, scientific writing\nReprocessing the epidemiological data from 80’s and 90’s to GDPR compliant repository.\n\n\nQuantifying uncertainty in Cascade framework\n🔄 In progress\nThesis\nR, exploratory analysis, scientific writing, research protocol\nMSc thesis on improving Cascade framework. A mathematical model of effective treatment of malaria under 5 years.\n\n\nModeling Covid-19 Epidemics\n✅ Completed\nLearning\nR, SEIR models, data viz\nSimulated covid outbreaks in global environment and visualized epidemic curves.\n\n\nScoping Review for systematic review\n🟡 Ongoing\nReview\nScoping review, Data extraction\nAssisting with a systematic review about sexual violence in war."
+  },
+  {
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Projects",
+    "section": "Publications",
+    "text": "Publications\nHobbs NP, Kim S, Masserey T, Chitnis N (2026) Impact of insecticide resistance evolution on malaria vector control. PLOS Computational Biology 22(8): e1014612. https://doi.org/10.1371/journal.pcbi.1014612"
+  },
+  {
+    "objectID": "projects.html#posters",
+    "href": "projects.html#posters",
+    "title": "Projects",
+    "section": "Posters",
+    "text": "Posters\n“Discovery of Novel HIV-1 Protease Inhibitor with Improved Target Affinity and P450 Stability by Computational Methods and Pharmacophore Hypothesis”, presented at Center for Research and Discovery Student Research Conference, Apr 2023, Boston, MA.\n\n\n\nIn silico target prediction - protein inhibitor target\n\n\n“Discovery and Synthesis of Novel Drug Compounds for the Treatment of Chagas Disease, presented at ASHP MidYear Clinical Conference, Dec 2022, Las Vegas, NV."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "See my full CV for details:\n\n👉 Sumin Kim-2026"
+  },
+  {
+    "objectID": "cv.html#cv-download",
+    "href": "cv.html#cv-download",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "See my full CV for details:\n\n👉 Sumin Kim-2026"
+  },
+  {
+    "objectID": "cv.html#daily-toolbox",
+    "href": "cv.html#daily-toolbox",
+    "title": "Curriculum Vitae",
+    "section": "Daily toolbox",
+    "text": "Daily toolbox\n\n\n\n\n\n\n\n\nTool\nPurpose\nUsed In\n\n\n\n\nRStudio, Prism\nData cleaning and visualization\nEpidemiology learning\n\n\nQuarto, Markdown\nScientific reports, website\nPortfolio, data cleaning, disease modeling\n\n\nOpen AI, Anthropic, Gemini\nVibe coding, tech learning\nPersonal projects, prompting, AI in science\n\n\nGitHub\nVersion control\nPortfolio, markdown projects\n\n\nNotion, Obsidian\nResearch planning, tool tracking, note taking, markdown\nProject management"
+  },
+  {
+    "objectID": "cv.html#toolbox-archive",
+    "href": "cv.html#toolbox-archive",
+    "title": "Curriculum Vitae",
+    "section": "Toolbox Archive",
+    "text": "Toolbox Archive\n\n\n\n\n\n\n\n\nTool\nPurpose\nUsed In\n\n\n\n\nMATLAB\nNumerical computing, mathematical modeling, simulation, and data analysis\nProcess modeling\n\n\nAspen HYSYS\nFluid/process engineering analysis\nProcess design\n\n\nStata\nStatistical modeling (regression etc), data management\nEpidemiology, biostatistics, and research data analysis\n\n\nPhoenix WinNonlin\nNoncompartmental Pharmacokinetic (PK) analysis\nPreliminary pharmacokinetic analysis"
+  },
+  {
+    "objectID": "cv.html#open-to",
+    "href": "cv.html#open-to",
+    "title": "Curriculum Vitae",
+    "section": "Open to",
+    "text": "Open to\n\nRoles in drug research & development, epidemiology, public health, or data science\nCollaborations in AI for Drug Target Research & development, Disease Modeling or Data Analysis\nResearch assistantships or project based work"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "MyJourney\n\n\n\nCE\n\n⚙️ Chemical Engineering\n\n\n\nHSE\n\nHSE Manager\n\n\n\nCE-&gt;HSE\n\n\n\n\n\nSafety\n\nRisk, Safety &\nQuality Management\n\n\n\nHSE-&gt;Safety\n\n\n\n\n\nPharmacy\n\n💊 Pharmacy\n\n\n\nSafety-&gt;Pharmacy\n\n\n\n\n\nClinical\n\nClinical Training\n\n\n\nPharmacy-&gt;Clinical\n\n\n\n\n\nResearch\n\n🔬 Chagas Research\n\n\n\nPharmacy-&gt;Research\n\n\n\n\n\nPatient\n\nPatient-centered Care &\nEvidence-based Decision Making\n\n\n\nClinical-&gt;Patient\n\n\n\n\n\nBridge\n\nFrom Molecules to\nPatient Populations\n\n\n\nPatient-&gt;Bridge\n\n\n\n\n\nDrugDev\n\nInterest in\nDrug Development\n\n\n\nResearch-&gt;DrugDev\n\n\n\n\n\nEvidence\n\nNeed for Robust\nClinical Evidence\n\n\n\nDrugDev-&gt;Evidence\n\n\n\n\n\nEvidence-&gt;Bridge\n\n\n\n\n\nMSc\n\n🎓 MSc Epidemiology\nSwiss TPH\n\n\n\nBridge-&gt;MSc\n\n\n\n\n\nModeling\n\nDisease Modeling &\nPopulation-level Evidence\n\n\n\nMSc-&gt;Modeling\n\n\n\n\n\nCD\n\n🎯 Clinical Development\n\n\n\nModeling-&gt;CD"
+  },
+  {
+    "objectID": "about.html#my-journey-toward-clinical-development",
+    "href": "about.html#my-journey-toward-clinical-development",
+    "title": "About",
+    "section": "",
+    "text": "MyJourney\n\n\n\nCE\n\n⚙️ Chemical Engineering\n\n\n\nHSE\n\nHSE Manager\n\n\n\nCE-&gt;HSE\n\n\n\n\n\nSafety\n\nRisk, Safety &\nQuality Management\n\n\n\nHSE-&gt;Safety\n\n\n\n\n\nPharmacy\n\n💊 Pharmacy\n\n\n\nSafety-&gt;Pharmacy\n\n\n\n\n\nClinical\n\nClinical Training\n\n\n\nPharmacy-&gt;Clinical\n\n\n\n\n\nResearch\n\n🔬 Chagas Research\n\n\n\nPharmacy-&gt;Research\n\n\n\n\n\nPatient\n\nPatient-centered Care &\nEvidence-based Decision Making\n\n\n\nClinical-&gt;Patient\n\n\n\n\n\nBridge\n\nFrom Molecules to\nPatient Populations\n\n\n\nPatient-&gt;Bridge\n\n\n\n\n\nDrugDev\n\nInterest in\nDrug Development\n\n\n\nResearch-&gt;DrugDev\n\n\n\n\n\nEvidence\n\nNeed for Robust\nClinical Evidence\n\n\n\nDrugDev-&gt;Evidence\n\n\n\n\n\nEvidence-&gt;Bridge\n\n\n\n\n\nMSc\n\n🎓 MSc Epidemiology\nSwiss TPH\n\n\n\nBridge-&gt;MSc\n\n\n\n\n\nModeling\n\nDisease Modeling &\nPopulation-level Evidence\n\n\n\nMSc-&gt;Modeling\n\n\n\n\n\nCD\n\n🎯 Clinical Development\n\n\n\nModeling-&gt;CD"
+  },
+  {
+    "objectID": "about.html#beyond-the-lab",
+    "href": "about.html#beyond-the-lab",
+    "title": "About",
+    "section": "Beyond the lab",
+    "text": "Beyond the lab\n\nGatherer, not hunter\nI like to garden and forage edible plants from wilderness.\n\n\nCoffee maniac\nI am that person who use a microgram scale to measure exact 18g of coffee beans."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nContact\nLet’s Connect!\n\n📧\nSend Email\n\n\nLooking for\n✓ Project collaboration\n✓ Professional opportunities\n✓ Just to chat"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sumin Kim",
+    "section": "",
+    "text": "This is my digital workspace.\nI’m Sumin, a pharmacist and MSc Epidemiology student exploring the intersection of public health, data, and innovation.\n\n\n\nResearch | Experience"
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Sumin Kim",
+    "section": "",
+    "text": "Research | Experience"
+  }
+]

@@ -1,0 +1,19 @@
+# Contact
+
+Let's Connect!
+
+::: contact-email
+📧
+
+[Send Email](mailto:kim_smin@outlook.com){.btn .btn-primary}
+:::
+
+### Looking for
+
+✓ Project collaboration
+
+✓ Professional opportunities
+
+✓ Just to chat
+
+------------------------------------------------------------------------

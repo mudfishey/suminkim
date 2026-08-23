@@ -1,0 +1,32 @@
+---
+title: "Sumin Kim"
+subtitle: "Pharmacist | Epidemiologist"
+image: profile.png
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/suminKim
+    - icon: github
+      text: GitHub
+      href: https://github.com/mudfishey
+    - icon: envelope
+      text: Email
+      href: mailto:kim_smin@outlook.com
+    - icon: globe
+      text: Pharmacist Consultation
+      href: xx
+---
+
+# Welcome
+
+This is my digital workspace.
+
+I'm Sumin, a pharmacist and MSc Epidemiology student exploring the intersection of public health, data, and innovation.
+
+------------------------------------------------------------------------
+
+## ↓ Explore
+
+[Research](projects.qmd) \| [Experience](cv.qmd)\
